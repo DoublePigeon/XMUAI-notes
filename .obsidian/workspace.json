@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discrete Mathematics/04 二元关系.md",
+                "file": "Physics/10 电容，电容器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04 二元关系"
+              "title": "10 电容，电容器"
             }
           }
         ]
@@ -188,15 +188,17 @@
   },
   "active": "3afebf9e15a8bb17",
   "lastOpenFiles": [
+    "Physics/09 静电场中的导体和电介质.md",
+    "Physics/10 电容，电容器.md",
+    "Physics/08 静电场.md",
+    "Physics/03 质点动力学.md",
+    "Discrete Mathematics/04 二元关系.md",
     "Digital Logic/01 基础知识.md",
     "Mathematics/微积分 - 04 可降阶的高阶微分方程.md",
     "Mathematics/微积分 - 26 函数项级数.md",
     "Data Structure/03 数据类型.md",
-    "Physics/08 静电场.md",
-    "Physics/09 静电场中的导体和电介质.md",
     "新建 文本文档.txt",
     "Mathematics/微积分 - 15 多元函数微分学的几何应用.md",
-    "Discrete Mathematics/04 二元关系.md",
     "Mathematics/微积分 - 20 对坐标的曲线积分.md",
     "Mathematics/微积分 - 19 对弧长的曲线积分.md",
     "Mathematics/微积分 - 21 格林公式.md",
@@ -213,8 +215,6 @@
     "Close History/即兴思路.md",
     "Close History/即兴思路(1).md",
     "Close History/04 新中国.md",
-    "Close History/04 新中国(1).md",
-    "Close History/03 中华民国.md",
     "Close History",
     "Programming",
     "Physics",
